@@ -1,14 +1,15 @@
 h1{
-    color: rgb(234, 106, 9);
+    color: rgb(5, 247, 163);
     background-color: rgb(59, 90, 176);
     font-style: italic;
+     text-align: center;
 }
 p{
     /* .imprima-regular { */
   font-family: "Imprima", sans-serif;
   font-weight: 500px;
-  font-style: normal;
-  color: #34d707;
+  font-style: 30px;
+  color: #0b0c0a;
 
 }
 body{
@@ -20,17 +21,21 @@ body{
 }
 
 
-a{
+/* a{
     float: left;
     width: 33.3%;
     
+} */
+
+.k3{
+    float: left;
+    width: 33.3%;
 }
-#img1{
-    float :left;
+.z2{
+    float: left;
+    width: 33.3%;
 }
-#a{
-    float :left;
-}
-#img3{
-    float :left;
+.a1{
+    float: right;
+    width: 33.3%;
 }

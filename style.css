@@ -1,0 +1,36 @@
+h1{
+    color: rgb(234, 106, 9);
+    background-color: rgb(59, 90, 176);
+    font-style: italic;
+}
+p{
+    /* .imprima-regular { */
+  font-family: "Imprima", sans-serif;
+  font-weight: 500px;
+  font-style: normal;
+  color: #34d707;
+
+}
+body{
+    background-image:url(web.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+
+a{
+    float: left;
+    width: 33.3%;
+    
+}
+#img1{
+    float :left;
+}
+#a{
+    float :left;
+}
+#img3{
+    float :left;
+}
